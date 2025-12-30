@@ -1,0 +1,24 @@
+{
+  "version": 1,
+  "base_track": "Castle in Hollywood",
+  "base_artist": "Laufey",
+  "createdAt": "2025-12-30T07:07:04.421793Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Castle in Hollywood",
+      "artist": "Laufey",
+      "has_synced": true,
+      "path": "select/01_Castle_in_Hollywood_Laufey.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Castle In Hollywood",
+      "artist": "Laufey",
+      "has_synced": false,
+      "path": "select/pl_01_Castle_In_Hollywood_Laufey.txt"
+    }
+  ]
+}
